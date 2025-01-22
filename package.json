@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"dev": "tsx index.ts"
+	},
+	"dependencies": {
+		"hyper-express": "^6.17.3"
+	},
+	"devDependencies": {
+		"@types/node": "^22.10.7"
+	}
+}
